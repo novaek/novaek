@@ -11,6 +11,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about what do you wanna know about my work 
 - 📫 How to reach me: novaek.dev@gmail.com
 - ⚡ Fun fact: I do malware research, reverse engineering, and detection engineering, for educational purposes.
+- Here is my portfolio : https://novaek.github.io/
 
 ## The tools I have a usage of :
 - Kali Linux OS
