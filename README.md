@@ -1,9 +1,4 @@
-## "Hello World!"
 
-<!--
-**novaek/novaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
 ## Brief description of the mere persona :
 - 🔭 I’m currently working on some kind of personal EDR
 - 🌱 I’m currently learning C++
