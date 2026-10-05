@@ -47,7 +47,7 @@ Others :
 ## Cybersecurity, what have I done with it ?
 
 ### What have I developed ?
-multiples scripts and toolings, i have produced (but never used any) multiple RATs, spywares, stealers. I have Developed offensive security tooling to study malware behavior, persistence, and detection strategies.
+multiples scripts and toolings, i have produced multiple cybersecurity tools. I have Developed offensive security tooling to study malware behavior, persistence, and detection strategies.
 
 In both C# and python, please keep in mind it's only for educational purposes, i never designed them to attack anyone or anything.
 
